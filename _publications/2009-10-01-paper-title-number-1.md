@@ -2,12 +2,12 @@
 title: "Pattern-coupled baseline correction method for near-infrared spectroscopy multivariate modeling"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: Paper1
+excerpt: 'This paper is about baseline correction of infrared signal, such as near-infrared and mid-infrared.'
+date: 2023.07.08
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'http://Yuqiangli092511.github.io/files/slides1.pdf'
+paperurl: 'http://Yuqiangli092511.github.io/files/paper1.pdf'
 citation: 'Yuqiang Li. (2023). &quot;Pattern-coupled baseline correction method for near-infrared spectroscopy multivariate modeling.&quot; <i>IEEE Transactions on Instrumentation and Measurement </i>. 72: 1003609.'
 ---
 
